@@ -44,7 +44,7 @@ Die Matrix wechselt im Kreis zwischen drei Anzeigen:
 | 1 | Schale mit Klick-Rahmen | 1 | PLA schwarz, **v5** verwenden |
 | 2 | Zierleiste | 1 | PLA gelb, in der AMS-Datei schon enthalten |
 | 3 | Rückdeckel mit ESP-Schiene | 1 | PLA schwarz |
-| 4 | Diffusor 0,8 mm | 1 | PLA natur oder rauchgrau |
+| 4 | Diffusor 0,8 mm, 132 × 32,4 mm | 1 | PLA natur oder rauchgrau |
 | E1 | LED-Matrix 32×8, 4× MAX7219 (FC16) | 1 | mit Diffusor zusammen 14,5 mm dick |
 | E2 | ESP32 WROOM DevKit | 1 | mit Stiftleisten |
 | E3 | Dupont-Kabel Buchse/Buchse | 5 | VCC, GND, DIN, CS, CLK |
@@ -66,7 +66,7 @@ Alle Dateien liegen in [`print/`](print/). Alles ist PLA und ohne Stützen druck
 | `Matrix_Schale_schwarz_Front-unten_v5.stl` | schwarz, ohne AMS | Front nach unten |
 | `Matrix_Zierleiste_gelb.stl` | gelb | nur zur einfarbigen Schale, eindrücken |
 | `Matrix_Rueckdeckel_schwarz.stl` | schwarz | Rückwand nach unten |
-| `Matrix_Diffusor_0.8mm_natur-oder-rauchgrau.stl` | natur oder rauchgrau | flach |
+| `Matrix_Diffusor_0.8mm_132mm_v5.stl` | natur oder rauchgrau | flach, 132 × 32,4 mm |
 | `Matrix_TESTDRUCK_Rastnasen_v5.stl` | beliebig | Front nach unten, zum Testen der Passung |
 
 > **Tipp:** Druck zuerst den kleinen Testdruck. Leg den Diffusor ein und drück die Matrix gerade hinein. Wenn sie sauber einklickt, passt auch die ganze Schale.
