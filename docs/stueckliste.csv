@@ -1,0 +1,11 @@
+Nr;Teil;Menge;Material / Hinweis
+1;Schale mit Klick-Rahmen (v5);1;PLA schwarz, Front unten
+2;Zierleiste;1;PLA gelb (in AMS-Datei enthalten)
+3;Rückdeckel mit ESP-Schiene;1;PLA schwarz, Rückwand unten
+4;Diffusor 0,8 mm;1;PLA natur oder rauchgrau
+E1;LED-Matrix 32x8, 4x MAX7219 (FC16);1;mit Diffusor 14,52 mm dick
+E2;ESP32 WROOM DevKit;1;mit Stiftleisten
+E3;Dupont-Kabel Buchse/Buchse;5;VCC GND DIN CS CLK
+E4;USB-C-Kabel + 5-V-Netzteil;1;Ausschnitt rechts hinten
+S1;Linsenkopfschraube M3 x 12 + Mutter;2;Rückdeckel unten
+S2;Kabelbinder;2;ESP32 an der Schiene
